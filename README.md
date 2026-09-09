@@ -36,4 +36,6 @@ Right now, I am an activist and an ambassador for my college. I have served as a
 - Get a lot of projects
 - Create my first website
 # THE END
+<img width="200" height="200" alt="blehh" src="https://github.com/user-attachments/assets/142dc5f8-ba28-4402-83c5-700ba4c23955" />
+
 This is all I have for now. I hope that in the future I will have more goals and will be able to turn them into reality
