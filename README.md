@@ -1,5 +1,5 @@
 # ｡ ₊°༺❤︎༻°₊ ｡ ABOUT MEEEE ｡ ₊°༺❤︎༻°₊ ｡
-Hiii! Do ya wanna know about me mooore? Read down, there’s more info there :)
+Hiii! Do ya wanna know about me more? Read down, there’s more info there :)
 
 <img width="205" height="210" alt="загруженное (2)" src="https://github.com/user-attachments/assets/627b3c80-9af6-4e54-858e-6a2aa52b7f08" />
 
