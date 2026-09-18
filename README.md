@@ -15,9 +15,9 @@ Programming
 - Python - basic experience
 
 Web Development
-- HTML - learning
-- CSS - learning
-- JavaScript - learning
+- HTML - beginner
+- CSS - beginner
+- JavaScript - beginner
 
 Design
 - Figma
