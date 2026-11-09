@@ -6,18 +6,18 @@ Hiii! Do ya wanna know about me more? Read down, there’s more info there :)
 I’m a second‑year student, studying to become a web developer, and I’m studying at VVSU, IThub. I strive to develop my skills in programming, design, and the implementation of various projects
 
 # *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ MY BIOGRAPHY *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
-My name is Zlata, I'm 17. My birthday is on January 27th, and my zodiac sign is Aquarius. I was born in a small village near the Artem, where I lived almost my entire life. But at the age of 16, I moved to Vladivostok, and now I live in a dormitory
+My name is Zlata, I'm 17. My birthday is on January 27th, and my zodiac sign is Aquarius. I was born in a small village near the Artem (Primorsky Krai, Russia), where I lived almost my entire life. But at the age of 16, I moved to Vladivostok, and now I live in a dormitory
 # ⋆⊱༻𖥸༺⊰⋆ MY SKILLS ⋆⊱༻𖥸༺⊰⋆
 Programming
-- JavaScript - leaning
+- JavaScript - Junior
 - C# - basic experience
 - VBA - experience with Excel automation
 - Python - basic experience
 
 Web Development
-- HTML - beginner
-- CSS - beginner
-- JavaScript - beginner
+- HTML - Junior
+- CSS - Junior
+- JavaScript - Junior
 
 Design
 - Figma
